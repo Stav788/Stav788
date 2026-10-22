@@ -4,7 +4,7 @@
 
 I hold an MSc in Digital Humanities and a BA in History and Archaeology from the National and Kapodistrian University of Athens.
 
-My interests include Natural Language Processing (NLP), Digital Humanities, and computational approaches to cultural heritage, particularly Named Entity Recognition (NER) and corpus annotation.
+My academic interests include Natural Language Processing (NLP), Digital Humanities, Named Entity Recognition (NER), corpus annotation, archaeology, and Greek palaeography.
 
 ### Research Experience
 
@@ -23,13 +23,4 @@ Development of an annotated corpus of Modern Greek archaeological texts, includi
 - [GitHub Repository](https://github.com/Stav788/archaeo-ner-greek)
 - [Dataset on Hugging Face](https://huggingface.co/datasets/Stalexan/archaeo-ner-greek)
 
-### Research Interests
 
-### Research Interests
-
-- Natural Language Processing (NLP)
-- Digital Humanities
-- Named Entity Recognition (NER)
-- Corpus Annotation
-- Archaeology
-- Greek Palaeography
