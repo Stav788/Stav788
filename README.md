@@ -25,7 +25,7 @@ Development of an annotated corpus of Modern Greek archaeological texts, includi
 - [GitHub Repository](https://github.com/Stav788/archaeo-ner-greek)
 - [Dataset on Hugging Face](https://huggingface.co/datasets/Stalexan/archaeo-ner-greek)
 
-  #### Languages
+#### Languages
 
 - **Greek:** Native
 - **English:** Professional working proficiency
