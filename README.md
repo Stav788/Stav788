@@ -1,6 +1,6 @@
-# Stavroula Alexandropoulou
+### Stavroula Alexandropoulou
 
-### About Me
+#### About Me
 
 I hold an MSc in Digital Humanities and a BA in History and Archaeology from the National and Kapodistrian University of Athens.
 
