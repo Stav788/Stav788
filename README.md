@@ -8,7 +8,7 @@ My academic interests include Natural Language Processing (NLP), Digital Humanit
 
 Alongside my academic background, I work as a freelance copyeditor specializing in translated literature from English and Italian.
 
-### Research Experience
+#### Research Experience
 
 **Postgraduate Scholarship Recipient**  
 [Archimedes Research Unit](https://archimedesai.gr/en/), Athena Research Center  
@@ -16,7 +16,7 @@ Alongside my academic background, I work as a freelance copyeditor specializing 
 
 Research scholarship focused on Natural Language Processing and data annotation for the humanities.
 
-### Research Projects
+#### Research Projects
 
 **Archaeological Named Entity Recognition for Modern Greek**
 
@@ -25,7 +25,7 @@ Development of an annotated corpus of Modern Greek archaeological texts, includi
 - [GitHub Repository](https://github.com/Stav788/archaeo-ner-greek)
 - [Dataset on Hugging Face](https://huggingface.co/datasets/Stalexan/archaeo-ner-greek)
 
-  ### Languages
+  #### Languages
 
 - **Greek:** Native
 - **English:** Professional working proficiency
