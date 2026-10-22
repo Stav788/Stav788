@@ -6,7 +6,7 @@ I hold an MSc in Digital Humanities and a BA in History and Archaeology from the
 
 My academic interests include Natural Language Processing (NLP), Digital Humanities, Named Entity Recognition (NER), corpus annotation, archaeology, and Greek palaeography.
 
-Alongside my academic work, I work as a freelance copyeditor and translator specializing in translated literature from English and Italian.
+Alongside my academic background, I work as a freelance copyeditor and translator specializing in translated literature from English and Italian.
 
 ### Research Experience
 
@@ -28,8 +28,8 @@ Development of an annotated corpus of Modern Greek archaeological texts, includi
   ### Languages
 
 - **Greek:** Native
-- **English:** Full professional proficiency
-- **Italian:** Full professional working proficiency
+- **English:** Professional working proficiency
+- **Italian:** Professional working proficiency
 - **Ancient Greek:** Advanced reading and translation proficiency
 
 
