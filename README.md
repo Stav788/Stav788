@@ -12,7 +12,7 @@ My interests include Natural Language Processing (NLP), Digital Humanities, and 
 [Archimedes Research Unit](https://archimedesai.gr/en/), Athena Research Center  
 *December 2025 – February 2026*
 
-Research scholarship focused on Natural Language Processing and data annotation for the humanities, as part of the national ARCHIMEDES research project.
+Research scholarship focused on Natural Language Processing and data annotation for the humanities.
 
 ### Research Projects
 
@@ -25,8 +25,11 @@ Development of an annotated corpus of Modern Greek archaeological texts, includi
 
 ### Research Interests
 
-- Natural Language Processing
+### Research Interests
+
+- Natural Language Processing (NLP)
 - Digital Humanities
-- Named Entity Recognition
-- Cultural Heritage Informatics
+- Named Entity Recognition (NER)
 - Corpus Annotation
+- Archaeology
+- Greek Palaeography
